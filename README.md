@@ -1,13 +1,13 @@
 ## Olá, eu sou Lucas Rodrigues!
 
-- 🧑‍💻 Estou estudando Ciência da Computaçao 1/8
+<b>- 🧑‍💻 Estou estudando Ciência da Computaçao 1/8</b>
 
  <div>
   <a href="https://github.com/diinkez">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=diinkez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diinkez&layout=compact&langs_count=16&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br> <b>Atualmente estudando essas linguagens: </b>
   <img align="center" alt="Diinkez-C" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" alt="Diinkez-C++" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
   <img align="center" alt="Diinkes-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
