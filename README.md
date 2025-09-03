@@ -1,4 +1,4 @@
-## Olá, eu sou Lucas Rodrigues 
+## Olá, eu sou Lucas Rodrigues!
 
 - 🧑‍💻 Estou estudando Ciência da Computaçao 1/8
 
